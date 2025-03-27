@@ -1,0 +1,22 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    color: brown;
+}
+
+.heading {
+    text-transform: uppercase;
+}
+
+.description,
+.list {
+    font-size: 24px;
+    font-weight:normal;
+    color:black;
+}
+
+#gohomelink {
+    color: blue;
+}
